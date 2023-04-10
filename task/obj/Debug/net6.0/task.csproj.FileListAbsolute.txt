@@ -1,0 +1,15 @@
+D:\Program Files\C#\final_test_work\task\bin\Debug\net6.0\task.exe
+D:\Program Files\C#\final_test_work\task\bin\Debug\net6.0\task.deps.json
+D:\Program Files\C#\final_test_work\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\Program Files\C#\final_test_work\task\bin\Debug\net6.0\task.dll
+D:\Program Files\C#\final_test_work\task\bin\Debug\net6.0\task.pdb
+D:\Program Files\C#\final_test_work\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\Program Files\C#\final_test_work\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\C#\final_test_work\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\Program Files\C#\final_test_work\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\Program Files\C#\final_test_work\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\Program Files\C#\final_test_work\task\obj\Debug\net6.0\task.dll
+D:\Program Files\C#\final_test_work\task\obj\Debug\net6.0\refint\task.dll
+D:\Program Files\C#\final_test_work\task\obj\Debug\net6.0\task.pdb
+D:\Program Files\C#\final_test_work\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\Program Files\C#\final_test_work\task\obj\Debug\net6.0\ref\task.dll
