@@ -45,11 +45,11 @@ void PrintArray(string[] array)
     }
 }
 
-void Main()
+void task()
 {
     string[] sourceArray = ReadArrayFromInput();
     string[] newArray = FilterArrayByLength(sourceArray, 3);
     PrintArray(newArray);
 }
 
-Main();
+task();
